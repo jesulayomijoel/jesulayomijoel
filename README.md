@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jesulayomijoel
 - 👀 I’m interested in ...logan ai/ mobney gift
-excel- 🌱 I’m currently learning ...microsoft excel
+  - 🌱 I’m currently learning ...microsoft excel
 - 💞️ I’m looking to collaborate on ...learning ai
 m- 📫 How to reach me ...email.
 - 😄 Pronouns: ...
